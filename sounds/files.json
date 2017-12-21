@@ -1,171 +1,226 @@
 [
-	        {
-            "path": "Alpaca.mp3"
+	  {
+            "path": "Alpaca.mp3",
+            "name": "Alpaca"
           },
           {
-            "path": "Baboon.mp3"
+            "path": "Baboon.mp3",
+            "name": "Baboon"
           },
           {
-            "path": "Bear.mp3"
+            "path": "Bear.mp3",
+            "name": "Bear"
           },
           {
-            "path": "Bees.mp3"
+            "path": "Bees.mp3",
+            "name": "Bees"
           },
           {
-            "path": "Bluejay.mp3"
+            "path": "Bluejay.mp3",
+            "name": "Bluejay"
           },
           {
-            "path": "Canary.mp3"
+            "path": "Canary.mp3",
+            "name": "Canary"
           },
           {
-            "path": "Cat.mp3"
+            "path": "Cat.mp3",
+            "name": "Cat"
           },
           {
-            "path": "Chicken.mp3"
+            "path": "Chicken.mp3",
+            "name": "Chicken"
           },
           {
-            "path": "Chimpanzee.mp3"
+            "path": "Chimpanzee.mp3",
+            "name": "Chimpanzee"
           },
           {
-            "path": "Common-Tern.mp3"
+            "path": "Common-Tern.mp3",
+            "name": "Common Tern"
           },
           {
-            "path": "Coyote.mp3"
+            "path": "Coyote.mp3",
+            "name": "Coyote"
           },
           {
-            "path": "Cricket.mp3"
+            "path": "Cricket.mp3",
+            "name": "Cricket"
           },
           {
-            "path": "Crow.mp3"
+            "path": "Crow.mp3",
+            "name": "Crow"
           },
           {
-            "path": "Deer.mp3"
+            "path": "Deer.mp3",
+            "name": "Deer"
           },
           {
-            "path": "Degu.mp3"
+            "path": "Degu.mp3",
+            "name": "Degu"
           },
           {
-            "path": "Dinosaur.mp3"
+            "path": "Dinosaur.mp3",
+            "name": "Dinosaur"
           },
           {
-            "path": "Dolphin.mp3"
+            "path": "Dolphin.mp3",
+            "name": "Dolphin"		  
           },
           {
-            "path": "Donkey.mp3"
+            "path": "Donkey.mp3",
+            "name": "Donkey"
           },
           {
-            "path": "Duck.mp3"
+            "path": "Duck.mp3",
+            "name": "Duck"		  
           },
           {
-            "path": "Elephant.mp3"
+            "path": "Elephant.mp3",
+            "name": "Elephant"
+	  },
+          {
+            "path": "Ferret.mp3",
+            "name": "Ferret"
           },
           {
-            "path": "Ferret.mp3"
-            
+            "path": "Fox.mp3",
+            "name": "Fox"		  
           },
           {
-            "path": "Fox.mp3"
+            "path": "Frog.mp3",
+            "name": "Frog"
           },
           {
-            "path": "Frog.mp3"
+            "path": "Geese.mp3",
+            "name": "Geese"
           },
           {
-            "path": "Geese.mp3"
+            "path": "Gibbon.mp3",
+            "name": "Gibbon"
+	  },
+          {
+            "path": "Goose.mp3",
+            "name": "Goose"
           },
           {
-            "path": "Gibbon.mp3"
+            "path": "Guinea-Pig.mp3",
+            "name": "Guinea Pig"
           },
           {
-            "path": "Goose.mp3"
+            "path": "Gulls.mp3",
+            "name": "Gulls"
           },
           {
-            "path": "Guinea-Pig.mp3"
+            "path": "Herring-Gull.mp3",
+            "name": "Herring Gull"
           },
           {
-            "path": "Gulls.mp3"
+            "path": "Hippo.mp3",
+            "name": "Hippo"
           },
           {
-            "path": "Herring-Gull.mp3"
+            "path": "Horse.mp3",
+            "name": "Horse"
           },
           {
-            "path": "Hippo.mp3"
+            "path": "Hyena.mp3",
+            "name": "Hyena"		  
           },
           {
-            "path": "Horse.mp3"
+            "path": "Killer-Whale.mp3",
+            "name": "Killer Whale"
           },
           {
-            "path": "Hyena.mp3"
+            "path": "Lion.mp3",
+            "name": "Lion"
           },
           {
-            "path": "Killer-Whale.mp3"
+            "path": "Mallard-Duck.mp3",
+            "name": "Mallard Duck"
           },
           {
-            "path": "Lion.mp3"
+            "path": "Monkey.mp3",
+            "name": "Monkey"
           },
           {
-            "path": "Mallard-Duck.mp3"
-          },
-          {
-            "path": "Monkey.mp3"
-          },
-          {
-            "path": "Otter.mp3"
+            "path": "Otter.mp3",
+            "name": "Otter"
           },         
           {
-            "path": "Parakeet.mp3"
+            "path": "Parakeet.mp3",
+            "name": "Parakeet"
           },           
           {
-            "path": "Parrot.mp3"
+            "path": "Parrot.mp3",
+            "name": "Parrot"
           },            
           {
-            "path": "Peacock.mp3"
+            "path": "Peacock.mp3",
+            "name": "Peacock"
           },         
           {
-            "path": "Penguin.mp3"
+            "path": "Penguin.mp3",
+            "name": "Penguin"
           },           
           {
-            "path": "Pheasant.mp3"
+            "path": "Pheasant.mp3",
+            "name": "Pheasant"
           },             
           {
-            "path": "Pig.mp3"
+            "path": "Pig.mp3",
+            "name": "Pig"		  
           },  
           {
-            "path": "Pigeon.mp3"
+            "path": "Pigeon.mp3",
+            "name": "Pigeon"		  
           },  
           {
-            "path": "Raccoon.mp3"
+            "path": "Raccoon.mp3",
+            "name": "Raccoon"		  
           },            
           {
-            "path": "Rat.mp3"
+            "path": "Rat.mp3",
+            "name": "Rat"
           },             
           {
-            "path": "Rhino.mp3"
+            "path": "Rhino.mp3",
+            "name": "Rhino"
           },  
           {
-            "path": "Rooster.mp3"
+            "path": "Rooster.mp3",
+            "name": "Rooster"
           },  
           {
-            "path": "Sandpiper.mp3"
+            "path": "Sandpiper.mp3",
+            "name": "Sandpiper"
           },             
           {
-            "path": "Seal.mp3"
+            "path": "Seal.mp3",
+            "name": "Seal"
           },  
           {
-            "path": "Sheep.mp3"
+            "path": "Sheep.mp3",
+            "name": "Sheep"
           },   
           {
-            "path": "Squirrel.mp3"
+            "path": "Squirrel.mp3",
+            "name": "Squirrel"
           },  
           {
-            "path": "Whale.mp3"
+            "path": "Whale.mp3",
+            "name": "Whale"
           },             
           {
-            "path": "Wolf.mp3"
+            "path": "Wolf.mp3",
+            "name": "Wolf"		  
           },     
           {
-            "path": "Wookie.mp3"
+            "path": "Wookie.mp3",
+            "name": "Wookie"
           },               
           {
-            "path": "Zebra.mp3"
+            "path": "Zebra.mp3",
+            "name": "Zebra"
           }               
 ]
