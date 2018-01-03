@@ -1,226 +1,338 @@
 [
 	  {
             "path": "Alpaca.mp3",
-            "name": "Alpaca"
+            "name": "Alpaca",
+            "smallImage": "",
+            "largeImage": ""
           },
           {
             "path": "Baboon.mp3",
-            "name": "Baboon"
+            "name": "Baboon",
+            "smallImage": "",
+            "largeImage": ""
           },
           {
             "path": "Bear.mp3",
-            "name": "Bear"
+            "name": "Bear",
+            "smallImage": "",
+            "largeImage": ""
           },
           {
             "path": "Bees.mp3",
-            "name": "Bees"
+            "name": "Bees",
+            "smallImage": "",
+            "largeImage": ""
           },
           {
             "path": "Bluejay.mp3",
-            "name": "Bluejay"
+            "name": "Bluejay",
+            "smallImage": "",
+            "largeImage": ""
           },
           {
             "path": "Canary.mp3",
-            "name": "Canary"
+            "name": "Canary",
+            "smallImage": "",
+            "largeImage": ""
           },
           {
             "path": "Cat.mp3",
-            "name": "Cat"
+            "name": "Cat",
+            "smallImage": "",
+            "largeImage": ""
           },
           {
             "path": "Chicken.mp3",
-            "name": "Chicken"
+            "name": "Chicken",
+            "smallImage": "",
+            "largeImage": ""
           },
           {
             "path": "Chimpanzee.mp3",
-            "name": "Chimpanzee"
+            "name": "Chimpanzee",
+            "smallImage": "",
+            "largeImage": ""
           },
           {
             "path": "Common-Tern.mp3",
-            "name": "Common Tern"
+            "name": "Common Tern",
+            "smallImage": "",
+            "largeImage": ""
           },
           {
             "path": "Coyote.mp3",
-            "name": "Coyote"
+            "name": "Coyote",
+            "smallImage": "",
+            "largeImage": ""
           },
           {
             "path": "Cricket.mp3",
-            "name": "Cricket"
+            "name": "Cricket",
+            "smallImage": "",
+            "largeImage": ""
           },
           {
             "path": "Crow.mp3",
-            "name": "Crow"
+            "name": "Crow",
+            "smallImage": "",
+            "largeImage": ""
           },
           {
             "path": "Deer.mp3",
-            "name": "Deer"
+            "name": "Deer",
+            "smallImage": "",
+            "largeImage": ""
           },
           {
             "path": "Degu.mp3",
-            "name": "Degu"
+            "name": "Degu",
+            "smallImage": "",
+            "largeImage": ""
           },
           {
             "path": "Dinosaur.mp3",
-            "name": "Dinosaur"
+            "name": "Dinosaur",
+            "smallImage": "",
+            "largeImage": ""
           },
           {
             "path": "Dolphin.mp3",
-            "name": "Dolphin"		  
+            "name": "Dolphin",
+            "smallImage": "",
+            "largeImage": ""
           },
           {
             "path": "Donkey.mp3",
-            "name": "Donkey"
+            "name": "Donkey",
+            "smallImage": "",
+            "largeImage": ""
           },
           {
             "path": "Duck.mp3",
-            "name": "Duck"		  
+            "name": "Duck",
+            "smallImage": "",
+            "largeImage": ""
           },
           {
             "path": "Elephant.mp3",
-            "name": "Elephant"
+            "name": "Elephant",
+            "smallImage": "",
+            "largeImage": ""
 	  },
           {
             "path": "Ferret.mp3",
-            "name": "Ferret"
+            "name": "Ferret",
+            "smallImage": "",
+            "largeImage": ""
           },
           {
             "path": "Fox.mp3",
-            "name": "Fox"		  
+            "name": "Fox",
+            "smallImage": "",
+            "largeImage": ""
           },
           {
             "path": "Frog.mp3",
-            "name": "Frog"
+            "name": "Frog",
+            "smallImage": "",
+            "largeImage": ""
           },
           {
             "path": "Geese.mp3",
-            "name": "Geese"
+            "name": "Geese",
+            "smallImage": "",
+            "largeImage": ""
           },
           {
             "path": "Gibbon.mp3",
-            "name": "Gibbon"
+            "name": "Gibbon",
+            "smallImage": "",
+            "largeImage": ""
 	  },
           {
             "path": "Goose.mp3",
-            "name": "Goose"
+            "name": "Goose",
+            "smallImage": "",
+            "largeImage": ""
           },
           {
             "path": "Guinea-Pig.mp3",
-            "name": "Guinea Pig"
+            "name": "Guinea Pig",
+            "smallImage": "",
+            "largeImage": ""
           },
           {
             "path": "Gulls.mp3",
-            "name": "Gulls"
+            "name": "Gulls",
+            "smallImage": "",
+            "largeImage": ""
           },
           {
             "path": "Herring-Gull.mp3",
-            "name": "Herring Gull"
+            "name": "Herring Gull",
+            "smallImage": "",
+            "largeImage": ""
           },
           {
             "path": "Hippo.mp3",
-            "name": "Hippo"
+            "name": "Hippo",
+            "smallImage": "",
+            "largeImage": ""
           },
           {
             "path": "Horse.mp3",
-            "name": "Horse"
+            "name": "Horse",
+            "smallImage": "",
+            "largeImage": ""
           },
           {
             "path": "Hyena.mp3",
-            "name": "Hyena"		  
+            "name": "Hyena",
+            "smallImage": "",
+            "largeImage": ""
           },
           {
             "path": "Killer-Whale.mp3",
-            "name": "Killer Whale"
+            "name": "Killer Whale",
+            "smallImage": "",
+            "largeImage": ""
           },
           {
             "path": "Lion.mp3",
-            "name": "Lion"
+            "name": "Lion",
+            "smallImage": "",
+            "largeImage": ""
           },
           {
             "path": "Mallard-Duck.mp3",
-            "name": "Mallard Duck"
+            "name": "Mallard Duck",
+            "smallImage": "",
+            "largeImage": ""
           },
           {
             "path": "Monkey.mp3",
-            "name": "Monkey"
+            "name": "Monkey",
+            "smallImage": "",
+            "largeImage": ""
           },
           {
             "path": "Otter.mp3",
-            "name": "Otter"
+            "name": "Otter",
+            "smallImage": "",
+            "largeImage": ""
           },         
           {
             "path": "Parakeet.mp3",
-            "name": "Parakeet"
+            "name": "Parakeet",
+            "smallImage": "",
+            "largeImage": ""
           },           
           {
             "path": "Parrot.mp3",
-            "name": "Parrot"
+            "name": "Parrot",
+            "smallImage": "",
+            "largeImage": ""
           },            
           {
             "path": "Peacock.mp3",
-            "name": "Peacock"
+            "name": "Peacock",
+            "smallImage": "",
+            "largeImage": ""
           },         
           {
             "path": "Penguin.mp3",
-            "name": "Penguin"
+            "name": "Penguin",
+            "smallImage": "",
+            "largeImage": ""
           },           
           {
             "path": "Pheasant.mp3",
-            "name": "Pheasant"
+            "name": "Pheasant",
+            "smallImage": "",
+            "largeImage": ""
           },             
           {
             "path": "Pig.mp3",
-            "name": "Pig"		  
+            "name": "Pig",
+            "smallImage": "",
+            "largeImage": ""
           },  
           {
             "path": "Pigeon.mp3",
-            "name": "Pigeon"		  
+            "name": "Pigeon",
+            "smallImage": "",
+            "largeImage": ""
           },  
           {
             "path": "Raccoon.mp3",
-            "name": "Raccoon"		  
+            "name": "Raccoon",
+            "smallImage": "",
+            "largeImage": ""
           },            
           {
             "path": "Rat.mp3",
-            "name": "Rat"
+            "name": "Rat",
+            "smallImage": "",
+            "largeImage": ""
           },             
           {
             "path": "Rhino.mp3",
-            "name": "Rhino"
+            "name": "Rhino",
+            "smallImage": "",
+            "largeImage": ""
           },  
           {
             "path": "Rooster.mp3",
-            "name": "Rooster"
+            "name": "Rooster",
+            "smallImage": "",
+            "largeImage": ""
           },  
           {
             "path": "Sandpiper.mp3",
-            "name": "Sandpiper"
+            "name": "Sandpiper",
+            "smallImage": "",
+            "largeImage": ""
           },             
           {
             "path": "Seal.mp3",
-            "name": "Seal"
+            "name": "Seal",
+            "smallImage": "",
+            "largeImage": ""
           },  
           {
             "path": "Sheep.mp3",
-            "name": "Sheep"
+            "name": "Sheep",
+            "smallImage": "",
+            "largeImage": ""
           },   
           {
             "path": "Squirrel.mp3",
-            "name": "Squirrel"
+            "name": "Squirrel",
+            "smallImage": "",
+            "largeImage": ""
           },  
           {
             "path": "Whale.mp3",
-            "name": "Whale"
+            "name": "Whale",
+            "smallImage": "",
+            "largeImage": ""
           },             
           {
             "path": "Wolf.mp3",
-            "name": "Wolf"		  
+            "name": "Wolf",
+            "smallImage": "",
+            "largeImage": ""
           },     
           {
             "path": "Wookie.mp3",
-            "name": "Wookie"
+            "name": "Wookie",
+            "smallImage": "",
+            "largeImage": ""
           },               
           {
             "path": "Zebra.mp3",
-            "name": "Zebra"
+            "name": "Zebra",
+            "smallImage": "",
+            "largeImage": ""
           }               
 ]
