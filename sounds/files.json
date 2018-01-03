@@ -2,337 +2,337 @@
 	  {
             "path": "Alpaca.mp3",
             "name": "Alpaca",
-            "smallImage": "",
-            "largeImage": ""
+            "smallImage": "alpaca-720x480.jpg",
+            "largeImage": "alpaca-1200x800.jpg"
           },
           {
             "path": "Baboon.mp3",
             "name": "Baboon",
-            "smallImage": "",
-            "largeImage": ""
+            "smallImage": "baboon-720x480.jpg",
+            "largeImage": "baboon-1200x800.jpg"
           },
           {
             "path": "Bear.mp3",
             "name": "Bear",
-            "smallImage": "",
-            "largeImage": ""
+            "smallImage": "bear-720x480.jpg",
+            "largeImage": "bear-1200x800.jpg"
           },
           {
             "path": "Bees.mp3",
             "name": "Bees",
-            "smallImage": "",
-            "largeImage": ""
+            "smallImage": "bees-720x480.jpg",
+            "largeImage": "bees-1200x800.jpg"
           },
           {
             "path": "Bluejay.mp3",
             "name": "Bluejay",
-            "smallImage": "",
-            "largeImage": ""
+            "smallImage": "bluejay-720x480.jpg",
+            "largeImage": "bluejay-1200x800.jpg"
           },
           {
             "path": "Canary.mp3",
             "name": "Canary",
-            "smallImage": "",
-            "largeImage": ""
+            "smallImage": "canary-720x480.jpg",
+            "largeImage": "canary-1200x800.jpg"
           },
           {
             "path": "Cat.mp3",
             "name": "Cat",
-            "smallImage": "",
-            "largeImage": ""
+            "smallImage": "cat-720x480.jpg",
+            "largeImage": "cat-1200x800.jpg"
           },
           {
             "path": "Chicken.mp3",
             "name": "Chicken",
-            "smallImage": "",
-            "largeImage": ""
+            "smallImage": "chicken-720x480.jpg",
+            "largeImage": "chicken-1200x800.jpg"
           },
           {
             "path": "Chimpanzee.mp3",
             "name": "Chimpanzee",
-            "smallImage": "",
-            "largeImage": ""
+            "smallImage": "chimpanzee-720x480.jpg",
+            "largeImage": "chimpanzee-1200x800.jpg"
           },
           {
             "path": "Common-Tern.mp3",
             "name": "Common Tern",
-            "smallImage": "",
-            "largeImage": ""
+            "smallImage": "common-tern-720x480.jpg",
+            "largeImage": "common-tern-1200x800.jpg"
           },
           {
             "path": "Coyote.mp3",
             "name": "Coyote",
-            "smallImage": "",
-            "largeImage": ""
+            "smallImage": "coyote-720x480.jpg",
+            "largeImage": "coyote-1200x800.jpg"
           },
           {
             "path": "Cricket.mp3",
             "name": "Cricket",
-            "smallImage": "",
-            "largeImage": ""
+            "smallImage": "cricket-720x480.jpg",
+            "largeImage": "cricket-1200x800.jpg"
           },
           {
             "path": "Crow.mp3",
             "name": "Crow",
-            "smallImage": "",
-            "largeImage": ""
+            "smallImage": "crow-720x480.jpg",
+            "largeImage": "crow-1200x800.jpg"
           },
           {
             "path": "Deer.mp3",
             "name": "Deer",
-            "smallImage": "",
-            "largeImage": ""
+            "smallImage": "deer-720x480.jpg",
+            "largeImage": "deer-1200x800.jpg"
           },
           {
             "path": "Degu.mp3",
             "name": "Degu",
-            "smallImage": "",
-            "largeImage": ""
+            "smallImage": "degu-720x480.jpg",
+            "largeImage": "degu-1200x800.jpg"
           },
           {
             "path": "Dinosaur.mp3",
             "name": "Dinosaur",
-            "smallImage": "",
-            "largeImage": ""
+            "smallImage": "dinosaur-720x480.jpg",
+            "largeImage": "dinosaur-1200x800.jpg"
           },
           {
             "path": "Dolphin.mp3",
             "name": "Dolphin",
-            "smallImage": "",
-            "largeImage": ""
+            "smallImage": "dolphin-720x480.jpg",
+            "largeImage": "dolphin-1200x800.jpg"
           },
           {
             "path": "Donkey.mp3",
             "name": "Donkey",
-            "smallImage": "",
-            "largeImage": ""
+            "smallImage": "donkey-720x480.jpg",
+            "largeImage": "donkey-1200x800.jpg"
           },
           {
             "path": "Duck.mp3",
             "name": "Duck",
-            "smallImage": "",
-            "largeImage": ""
+            "smallImage": "duck-720x480.jpg",
+            "largeImage": "duck-1200x800.jpg"
           },
           {
             "path": "Elephant.mp3",
             "name": "Elephant",
-            "smallImage": "",
-            "largeImage": ""
+            "smallImage": "elephant-720x480.jpg",
+            "largeImage": "elephant-1200x800.jpg"
 	  },
           {
             "path": "Ferret.mp3",
             "name": "Ferret",
-            "smallImage": "",
-            "largeImage": ""
+            "smallImage": "ferret-720x480.jpg",
+            "largeImage": "ferret-1200x800.jpg"
           },
           {
             "path": "Fox.mp3",
             "name": "Fox",
-            "smallImage": "",
-            "largeImage": ""
+            "smallImage": "fox-720x480.jpg",
+            "largeImage": "fox-1200x800.jpg"
           },
           {
             "path": "Frog.mp3",
             "name": "Frog",
-            "smallImage": "",
-            "largeImage": ""
+            "smallImage": "frog-720x480.jpg",
+            "largeImage": "frog-1200x800.jpg"
           },
           {
             "path": "Geese.mp3",
             "name": "Geese",
-            "smallImage": "",
-            "largeImage": ""
+            "smallImage": "geese-720x480.jpg",
+            "largeImage": "geese-1200x800.jpg"
           },
           {
             "path": "Gibbon.mp3",
             "name": "Gibbon",
-            "smallImage": "",
-            "largeImage": ""
+            "smallImage": "gibbon-720x480.jpg",
+            "largeImage": "gibbon-1200x800.jpg"
 	  },
           {
             "path": "Goose.mp3",
             "name": "Goose",
-            "smallImage": "",
-            "largeImage": ""
+            "smallImage": "goose-720x480.jpg",
+            "largeImage": "goose-1200x800.jpg"
           },
           {
             "path": "Guinea-Pig.mp3",
             "name": "Guinea Pig",
-            "smallImage": "",
-            "largeImage": ""
+            "smallImage": "guinea-pig-720x480.jpg",
+            "largeImage": "guinea-pig-1200x800.jpg"
           },
           {
             "path": "Gulls.mp3",
             "name": "Gulls",
-            "smallImage": "",
-            "largeImage": ""
+            "smallImage": "gull-720x480.jpg",
+            "largeImage": "gull-1200x800.jpg"
           },
           {
             "path": "Herring-Gull.mp3",
             "name": "Herring Gull",
-            "smallImage": "",
-            "largeImage": ""
+            "smallImage": "herring-gull-720x480.jpg",
+            "largeImage": "herring-gull-1200x800.jpg"
           },
           {
             "path": "Hippo.mp3",
             "name": "Hippo",
-            "smallImage": "",
-            "largeImage": ""
+            "smallImage": "hippo-720x480.jpg",
+            "largeImage": "hippo-1200x800.jpg"
           },
           {
             "path": "Horse.mp3",
             "name": "Horse",
-            "smallImage": "",
-            "largeImage": ""
+            "smallImage": "horse-720x480.jpg",
+            "largeImage": "horse-1200x800.jpg"
           },
           {
             "path": "Hyena.mp3",
             "name": "Hyena",
-            "smallImage": "",
-            "largeImage": ""
+            "smallImage": "hyena-720x480.jpg",
+            "largeImage": "hyena-1200x800.jpg"
           },
           {
             "path": "Killer-Whale.mp3",
             "name": "Killer Whale",
-            "smallImage": "",
-            "largeImage": ""
+            "smallImage": "killer-whale-720x480.jpg",
+            "largeImage": "killer-whale-1200x800.jpg"
           },
           {
             "path": "Lion.mp3",
             "name": "Lion",
-            "smallImage": "",
-            "largeImage": ""
+            "smallImage": "lion-720x480.jpg",
+            "largeImage": "lion-1200x800.jpg"
           },
           {
             "path": "Mallard-Duck.mp3",
             "name": "Mallard Duck",
-            "smallImage": "",
-            "largeImage": ""
+            "smallImage": "mallard-duck-720x480.jpg",
+            "largeImage": "mallard-duck-1200x800.jpg"
           },
           {
             "path": "Monkey.mp3",
             "name": "Monkey",
-            "smallImage": "",
-            "largeImage": ""
+            "smallImage": "monkey-720x480.jpg",
+            "largeImage": "monkey-1200x800.jpg"
           },
           {
             "path": "Otter.mp3",
             "name": "Otter",
-            "smallImage": "",
-            "largeImage": ""
+            "smallImage": "otter-720x480.jpg",
+            "largeImage": "otter-1200x800.jpg"
           },         
           {
             "path": "Parakeet.mp3",
             "name": "Parakeet",
-            "smallImage": "",
-            "largeImage": ""
+            "smallImage": "parakeet-720x480.jpg",
+            "largeImage": "parakeet-1200x800.jpg"
           },           
           {
             "path": "Parrot.mp3",
             "name": "Parrot",
-            "smallImage": "",
-            "largeImage": ""
+            "smallImage": "parrot-720x480.jpg",
+            "largeImage": "parrot-1200x800.jpg"
           },            
           {
             "path": "Peacock.mp3",
             "name": "Peacock",
-            "smallImage": "",
-            "largeImage": ""
+            "smallImage": "peacock-720x480.jpg",
+            "largeImage": "peacock-1200x800.jpg"
           },         
           {
             "path": "Penguin.mp3",
             "name": "Penguin",
-            "smallImage": "",
-            "largeImage": ""
+            "smallImage": "penguin-720x480.jpg",
+            "largeImage": "penguin-1200x800.jpg"
           },           
           {
             "path": "Pheasant.mp3",
             "name": "Pheasant",
-            "smallImage": "",
-            "largeImage": ""
+            "smallImage": "pheasant-720x480.jpg",
+            "largeImage": "pheasant-1200x800.jpg"
           },             
           {
             "path": "Pig.mp3",
             "name": "Pig",
-            "smallImage": "",
-            "largeImage": ""
+            "smallImage": "pig-720x480.jpg",
+            "largeImage": "pig-1200x800.jpg"
           },  
           {
             "path": "Pigeon.mp3",
             "name": "Pigeon",
-            "smallImage": "",
-            "largeImage": ""
+            "smallImage": "pigeon-720x480.jpg",
+            "largeImage": "pigeon-1200x800.jpg"
           },  
           {
             "path": "Raccoon.mp3",
             "name": "Raccoon",
-            "smallImage": "",
-            "largeImage": ""
+            "smallImage": "raccoon-720x480.jpg",
+            "largeImage": "raccoon-1200x800.jpg"
           },            
           {
             "path": "Rat.mp3",
             "name": "Rat",
-            "smallImage": "",
-            "largeImage": ""
+            "smallImage": "rat-720x480.jpg",
+            "largeImage": "rat-1200x800.jpg"
           },             
           {
             "path": "Rhino.mp3",
             "name": "Rhino",
-            "smallImage": "",
-            "largeImage": ""
+            "smallImage": "rhino-720x480.jpg",
+            "largeImage": "rhino-1200x800.jpg"
           },  
           {
             "path": "Rooster.mp3",
             "name": "Rooster",
-            "smallImage": "",
-            "largeImage": ""
+            "smallImage": "rooster-720x480.jpg",
+            "largeImage": "rooster-1200x800.jpg"
           },  
           {
             "path": "Sandpiper.mp3",
             "name": "Sandpiper",
-            "smallImage": "",
-            "largeImage": ""
+            "smallImage": "sandpiper-720x480.jpg",
+            "largeImage": "sandpiper-1200x800.jpg"
           },             
           {
             "path": "Seal.mp3",
             "name": "Seal",
-            "smallImage": "",
-            "largeImage": ""
+            "smallImage": "seal-720x480.jpg",
+            "largeImage": "seal-1200x800.jpg"
           },  
           {
             "path": "Sheep.mp3",
             "name": "Sheep",
-            "smallImage": "",
-            "largeImage": ""
+            "smallImage": "sheep-720x480.jpg",
+            "largeImage": "sheep-1200x800.jpg"
           },   
           {
             "path": "Squirrel.mp3",
             "name": "Squirrel",
-            "smallImage": "",
-            "largeImage": ""
+            "smallImage": "squirrel-720x480.jpg",
+            "largeImage": "squirrel-1200x800.jpg"
           },  
           {
             "path": "Whale.mp3",
             "name": "Whale",
-            "smallImage": "",
-            "largeImage": ""
+            "smallImage": "whale-720x480.jpg",
+            "largeImage": "whale-1200x800.jpg"
           },             
           {
             "path": "Wolf.mp3",
             "name": "Wolf",
-            "smallImage": "",
-            "largeImage": ""
+            "smallImage": "wolf-720x480.jpg",
+            "largeImage": "wolf-1200x800.jpg"
           },     
           {
             "path": "Wookie.mp3",
             "name": "Wookie",
-            "smallImage": "",
-            "largeImage": ""
+            "smallImage": "wookie-720x480.jpg",
+            "largeImage": "wookie-1200x800.jpg"
           },               
           {
             "path": "Zebra.mp3",
             "name": "Zebra",
-            "smallImage": "",
-            "largeImage": ""
+            "smallImage": "zebra-720x480.jpg",
+            "largeImage": "zebra-1200x800.jpg"
           }               
 ]
