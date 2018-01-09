@@ -4,4 +4,4 @@ JSON file holding details about a range of animal information and a link to the 
 
 Animal sounds are stored in the folder [sounds](sounds)
 
-Animal images are stored in the folder [sounds](images)
+Animal images are stored in the folder [images](images)
